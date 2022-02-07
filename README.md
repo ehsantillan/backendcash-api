@@ -1,6 +1,6 @@
 # BACKENDCASH - API
 
-ABM about User and Loan.
+CRUD about User and Loan.
 
 User and Loan are not created by api, but yes by the database (H2).
 
